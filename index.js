@@ -14,7 +14,7 @@ const sortedByFormulaThenEFC = sortWith(
   students
 );
 console.log(
-  'Packaging Order by Formula, then by EFC: ',
+  'Packaging Order by Formula, then by EFC Test: ',
   sortedByFormulaThenEFC
 );
 
